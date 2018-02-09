@@ -24,8 +24,8 @@ int insertion_sort(int A[]){
 }
 
 int main(){
-	int A[] = {5,4,3,2,1};
+	int A[] = {5,40,3,2,1};
 	insertion_sort(A);
 	for (int i =0;i<sizeof(A)/sizeof(A[0]);i++)
-		cout<<A[i];
+		cout<<A[i]<<endl;
 }
