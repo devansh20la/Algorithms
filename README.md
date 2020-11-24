@@ -1,3 +1,3 @@
-# Algorithms/ Data Structures in C++ (in progress)
+# Algorithms/ Data Structures in Python (in progress)
 
-I write data structures/algorithms as a refresher to C++ in my free time.
+I write data structures/algorithms as a refresher to Python in my free time.
