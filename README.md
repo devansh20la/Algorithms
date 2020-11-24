@@ -12,3 +12,6 @@ I write data structures/algorithms as a refresher to Python in my free time.
 1. https://leetcode.com/problems/sort-colors/
 1. https://leetcode.com/problems/partition-labels
 1. https://leetcode.com/problems/two-sum/
+
+## Week 2
+
