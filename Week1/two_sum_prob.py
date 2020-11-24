@@ -1,4 +1,5 @@
 # Two Sum Problem https://leetcode.com/problems/two-sum/
+from typing import List
 
 # Brute Force
 class Solution:

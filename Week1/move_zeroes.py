@@ -1,7 +1,10 @@
 # move zeros 
 # https://leetcode.com/problems/move-zeroes/
 
-def moveZeroes(nums) -> None:
+from typing import List
+
+
+def moveZeroes(nums: List[int]) -> None:
 	"""
 	Do not return anything, modify nums in-place instead.
 	"""
