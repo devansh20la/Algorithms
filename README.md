@@ -18,6 +18,11 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/product-of-array-except-self/
 1. https://leetcode.com/problems/search-a-2d-matrix/
 
+## Week 3
+1. https://leetcode.com/problems/valid-palindrome
+1. https://leetcode.com/problems/valid-palindrome-ii
+1. https://leetcode.com/problems/first-unique-character-in-a-string
+
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
 1. https://leetcode.com/problems/powx-n (same as above.. can't solve these questions without already knowning them)
