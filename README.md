@@ -28,6 +28,7 @@ I write data structures/algorithms as a refresher in my free time.
 ## Week 4
 1. https://leetcode.com/problems/most-common-word
 1. https://leetcode.com/problems/jump-game (amazing question)
+1. https://leetcode.com/problems/jump-game-ii/
 
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
@@ -38,4 +39,8 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/trapping-rain-wate (very imp question)
 1. https://leetcode.com/problems/subarray-sum-equals-k (very tricky)
 1. https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses (NICE ;) solution)
+
+
+# Acknowledgement
+Some solutions are inspired/copied from discussions/solutions section of leetcode. 
 
