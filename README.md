@@ -29,6 +29,7 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/most-common-word
 1. https://leetcode.com/problems/jump-game (amazing question)
 1. https://leetcode.com/problems/jump-game-ii/
+1. https://leetcode.com/problems/minimum-size-subarray-sum/
 
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
