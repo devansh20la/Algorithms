@@ -15,7 +15,7 @@ class Solution:
 	    		nums[i+1], nums[j] = nums[j], nums[i+1]
 	    		i += 1
 	    		j += 1
-    	return nums[0:i+1], i
+    	return i + 1
 
 
 s = Solution()

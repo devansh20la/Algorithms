@@ -5,13 +5,15 @@ from typing import List
 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # sort the list O(nlog(n))
         nums.sort()
         i = 0
         res = []
+        # edge case
         if len(nums) < 3:
             return []
 
-        for i in range(len(nums)-2):
+        for i in range(len(nums)-2): # O(n^2)
             if i > 0 and nums[i] == nums[i-1]:
                 continue
             target = nums[i]
@@ -36,6 +38,8 @@ class Solution:
                     k -= 1
 
         return res
+
+
 
 
 s = Solution()

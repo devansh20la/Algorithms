@@ -40,6 +40,8 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/trapping-rain-wate (very imp question)
 1. https://leetcode.com/problems/subarray-sum-equals-k (very tricky)
 1. https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses (NICE ;) solution)
+1. https://leetcode.com/problems/word-break/
+1. https://leetcode.com/problems/add-strings/
 
 
 # Acknowledgement
