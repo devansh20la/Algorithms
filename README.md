@@ -33,6 +33,9 @@ I write data structures/algorithms as a refresher in my free time.
 
 ## Week 5 
 1. https://leetcode.com/problems/linked-list-cycle/
+1. https://leetcode.com/problems/reverse-linked-list
+1. https://leetcode.com/problems/odd-even-linked-list
+1. https://leetcode.com/problems/copy-list-with-random-pointer
 
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
