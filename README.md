@@ -31,6 +31,9 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/jump-game-ii/
 1. https://leetcode.com/problems/minimum-size-subarray-sum/
 
+## Week 5 
+1. https://leetcode.com/problems/linked-list-cycle/
+
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
 1. https://leetcode.com/problems/powx-n (same as above.. can't solve these questions without already knowning them)
