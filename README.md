@@ -37,6 +37,13 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/odd-even-linked-list
 1. https://leetcode.com/problems/copy-list-with-random-pointer
 
+## Week 6
+1. https://leetcode.com/problems/binary-tree-preorder-traversal/
+1. https://leetcode.com/problems/binary-tree-postorder-traversal
+1. https://leetcode.com/problems/maximum-depth-of-binary-tree/
+1. https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
 1. https://leetcode.com/problems/powx-n (same as above.. can't solve these questions without already knowning them)
