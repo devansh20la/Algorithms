@@ -43,6 +43,13 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/maximum-depth-of-binary-tree/
 1. https://leetcode.com/problems/binary-tree-level-order-traversal/
 
+## Week 7
+1. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+1. https://leetcode.com/problems/invert-binary-tree
+1. https://leetcode.com/problems/binary-tree-right-side-view
+1. https://leetcode.com/problems/find-the-celebrity/
+
+## Week 8
 
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
