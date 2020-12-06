@@ -28,6 +28,49 @@ class Solution:
                 helper(node.left, level + 1)
             if node.right:
                 helper(node.right, level + 1)
-            
         helper(root, 0)
         return levels
+
+class Solution:
+    def levelOrder(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        if not root:
+            return []
+        stack, res = [root], []
+
+        while(len(stack) !=0):
+            s = len(stack)
+            level = []
+            for i in range(s):
+                node = stack[i]
+                level.append(node.val)
+
+                if node.left:
+                    stack.append(node.left)
+                if node.right:
+                    stack.append(node.right)
+            res.append(level)
+            if i != len(stack):
+                stack = stack[i+1:]
+            else:
+                stack = []
+        return res
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
