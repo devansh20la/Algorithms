@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-the-celebrity/submissions/
+# https://leetcode.com/problems/find-the-celebrity
 class Solution:
     def findCelebrity(self, n: int) -> int:
         self.n = n

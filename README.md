@@ -50,6 +50,8 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/find-the-celebrity/
 
 ## Week 8
+1. https://leetcode.com/problems/number-of-islands
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 ## Top100fb
 1. https://leetcode.com/problems/divide-two-integers (Ques that looks easy, is actullay hard but is marked medium)
@@ -62,6 +64,7 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses (NICE ;) solution)
 1. https://leetcode.com/problems/word-break/
 1. https://leetcode.com/problems/add-strings/
+1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 
 # Acknowledgement
