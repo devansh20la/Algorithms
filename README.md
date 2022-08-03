@@ -65,6 +65,15 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/word-break/
 1. https://leetcode.com/problems/add-strings/
 1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+1. https://leetcode.com/problems/combination-sum/
+
+## TopInterview
+1. https://leetcode.com/problems/lru-cache/submissions/
+1. https://leetcode.com/problems/number-of-islands/
+1. https://leetcode.com/problems/merge-intervals/solution/
+1. https://leetcode.com/problems/maximum-subarray/
+1. https://leetcode.com/problems/add-two-numbers/
+1. https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 
 # Acknowledgement
