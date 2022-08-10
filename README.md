@@ -74,7 +74,11 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/maximum-subarray/
 1. https://leetcode.com/problems/add-two-numbers/
 1. https://leetcode.com/problems/insert-delete-getrandom-o1/
-
+1. https://leetcode.com/problems/kth-largest-element-in-an-array/
+1. https://leetcode.com/problems/basic-calculator-ii/
+1. https://leetcode.com/problems/word-search/
+1. https://leetcode.com/problems/container-with-most-water/
+1. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 # Acknowledgement
 Some solutions are inspired/copied from discussions/solutions section of leetcode. 
