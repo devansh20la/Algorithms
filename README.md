@@ -79,6 +79,16 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/word-search/
 1. https://leetcode.com/problems/container-with-most-water/
 1. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+1. https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+1. https://leetcode.com/problems/game-of-life/
+1. https://leetcode.com/problems/top-k-frequent-elements/
+1. https://leetcode.com/problems/rotate-image/
+1. https://leetcode.com/problems/spiral-matrix/
+1. https://leetcode.com/problems/flatten-nested-list-iterator/
+1. https://leetcode.com/problems/powx-n/
+1. https://leetcode.com/problems/reverse-integer/
+1. https://leetcode.com/problems/longest-consecutive-sequence/
+1. https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 # Acknowledgement
 Some solutions are inspired/copied from discussions/solutions section of leetcode. 
