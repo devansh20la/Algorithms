@@ -70,7 +70,7 @@ I write data structures/algorithms as a refresher in my free time.
 ## TopInterview
 1. https://leetcode.com/problems/lru-cache/submissions/
 1. https://leetcode.com/problems/number-of-islands/
-1. https://leetcode.com/problems/merge-intervals/solution/
+1. https://leetcode.com/problems/merge-intervals/
 1. https://leetcode.com/problems/maximum-subarray/
 1. https://leetcode.com/problems/add-two-numbers/
 1. https://leetcode.com/problems/insert-delete-getrandom-o1/
@@ -89,6 +89,41 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/reverse-integer/
 1. https://leetcode.com/problems/longest-consecutive-sequence/
 1. https://leetcode.com/problems/search-in-rotated-sorted-array/
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters
+
+
+## Google Card
+
+### IP
+1. https://leetcode.com/explore/interview/card/google/67/sql-2/3044/
+1. https://leetcode.com/explore/interview/card/google/67/sql-2/3046
+
+### Array and Strings
+1. https://leetcode.com/problems/next-permutation/
+1. https://leetcode.com/problems/multiply-strings/
+1. https://leetcode.com/problems/jump-game
+1. https://leetcode.com/problems/plus-one/
+1. https://leetcode.com/problems/missing-ranges
+1. https://leetcode.com/problems/next-closest-time/
+1. https://leetcode.com/problems/expressive-words/
+1. https://leetcode.com/problems/find-and-replace-in-string/
+1. https://leetcode.com/problems/maximize-distance-to-closest-person/
+1. https://leetcode.com/problems/minimum-cost-to-hire-k-workers
+1. https://leetcode.com/problems/valid-parentheses/
+
+### Linked List
+1. https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+1. https://leetcode.com/problems/merge-two-sorted-lists/
+1. https://leetcode.com/problems/copy-list-with-random-pointer/
+
+### Trees / Graphs
+1. https://leetcode.com/problems/binary-tree-maximum-path-sum/
+1. https://leetcode.com/problems/course-schedule
+1. https://leetcode.com/problems/count-complete-tree-nodes/
+1. https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+1. https://leetcode.com/problems/decode-string
+1. https://leetcode.com/problems/evaluate-division/
+
 
 # Acknowledgement
 Some solutions are inspired/copied from discussions/solutions section of leetcode. 
