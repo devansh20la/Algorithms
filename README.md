@@ -132,6 +132,8 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/word-search-ii/
 1. https://leetcode.com/problems/letter-combinations-of-a-phone-number/ (same as topinterview)
 1. https://leetcode.com/problems/generate-parentheses/
+1. https://leetcode.com/problems/android-unlock-patterns/
+
 
 
 # Acknowledgement
