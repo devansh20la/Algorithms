@@ -123,6 +123,15 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/longest-increasing-path-in-a-matrix
 1. https://leetcode.com/problems/decode-string
 1. https://leetcode.com/problems/evaluate-division/
+1. https://leetcode.com/problems/diameter-of-binary-tree
+1. https://leetcode.com/problems/cracking-the-safe
+
+### Recursions
+1. https://leetcode.com/problems/word-squares/
+1. https://leetcode.com/problems/strobogrammatic-number-ii/
+1. https://leetcode.com/problems/word-search-ii/
+1. https://leetcode.com/problems/letter-combinations-of-a-phone-number/ (same as topinterview)
+1. https://leetcode.com/problems/generate-parentheses/
 
 
 # Acknowledgement
