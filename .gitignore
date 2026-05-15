@@ -29,8 +29,8 @@ ML-basics/data/
 *.out
 *.app
 
-# folders
-citadel/*
-jump-trading-python-pytorch/*
-amazon/*
-reflection/*
+# Local-only interview prep (not pushed)
+citadel/
+jump-trading-python-pytorch/
+amazon/
+reflection/
