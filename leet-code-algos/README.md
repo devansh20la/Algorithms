@@ -135,6 +135,9 @@ I write data structures/algorithms as a refresher in my free time.
 1. https://leetcode.com/problems/android-unlock-patterns/
 
 
+### Others
+1. https://leetcode.com/problems/bulls-and-cows
+1. https://leetcode.com/problems/minimum-area-rectangle/
 
 # Acknowledgement
 Some solutions are inspired/copied from discussions/solutions section of leetcode. 

@@ -1,32 +1,36 @@
-# Prerequisites
-*.d
+# Python / editor
+.venv/
+__pycache__/
+.vscode/
+.cursor/
+.DS_Store
 
-# Compiled Object files
+# Large or generated data
+ML-basics/data/
+
+# C/C++ build artifacts (from leet-code-algos)
+*.d
 *.slo
 *.lo
 *.o
 *.obj
-
-# Precompiled Headers
 *.gch
 *.pch
-
-# Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-
-# Fortran module files
 *.mod
 *.smod
-
-# Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
-
-# Executables
 *.exe
 *.out
 *.app
+
+# folders
+citadel/*
+jump-trading-python-pytorch/*
+amazon/*
+reflection/*
