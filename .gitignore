@@ -20,7 +20,7 @@ ML-basics/data/
 *.dylib
 *.dll
 *.mod
-*.smod
+*.smodw
 *.lai
 *.la
 *.a
